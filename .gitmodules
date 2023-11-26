@@ -4,3 +4,6 @@
 [submodule "sudoku-solver"]
 	path = sudoku-solver
 	url = https://github.com/patil-aniket/sudoku-solver.git
+[submodule "sliding-tile-solver"]
+	path = sliding-tile-solver
+	url = https://github.com/patil-aniket/sliding-tile-solver.git
