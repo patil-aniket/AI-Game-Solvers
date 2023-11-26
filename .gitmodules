@@ -1,3 +1,6 @@
 [submodule "2048Solver"]
 	path = 2048Solver
 	url = https://github.com/patil-aniket/2048Solver.git
+[submodule "sudoku-solver"]
+	path = sudoku-solver
+	url = https://github.com/patil-aniket/sudoku-solver.git
